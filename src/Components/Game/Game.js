@@ -7,7 +7,7 @@ class Game extends Component {
         this.state = {
             number: "",
             message: "",
-            random: generateRandomNumber(100)
+            random: generateRandomNumber(100)   
         }
 
         

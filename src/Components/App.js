@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <p>Adivina el numero entre 1 y 100</p>
       </header>
       <div>
         <Game/>
